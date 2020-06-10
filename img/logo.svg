@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="200px" height="81px"
+xml:space="preserve">
+<filter id="filter27" x="-0.529762" y="-0.529762" width="2.25081" height="2.26032" >
+<feComponentTransfer in="SourceGraphic">
+	<feFuncR type="linear" slope="0"/>
+	<feFuncG type="linear" slope="0"/>
+	<feFuncB type="linear" slope="0"/>
+</feComponentTransfer>
+<feGaussianBlur stdDeviation="1 1" />
+<feOffset dx="2.12135" dy="2.12129"/>
+<feComponentTransfer result="25">
+	<feFuncR type="linear" Ue="0" intercept="0.647059"/>
+	<feFuncG type="linear" Ue="0" intercept="0.329412"/>
+	<feFuncB type="linear" Ue="0" intercept="0.34902"/>
+	<feFuncA type="linear" xh="0" slope="0.5"/>
+</feComponentTransfer>
+<feComposite result="26"  in="SourceGraphic" in2="25" operator="over"/>
+</filter>
+<g style="filter:url(#filter27);">
+<g id="PathID_49" transform="matrix(0.298725, 0, 0, 0.335027, 72.75, -50.75)" opacity="1">
+<path style="fill:#F1333F;fill-opacity:1" d="M424.85 316.1L87.1 316.1L87.1 151.55L424.85 151.55L424.85 316.1" />
+</g>
+<g id="PathID_50" transform="matrix(0.298725, 0, 0, 0.335027, 72.75, -50.75)" opacity="1">
+</g>
+</g>
+<filter id="filter30" x="-0.529762" y="-0.529762" width="2.24679" height="2.25246" >
+<feComponentTransfer in="SourceGraphic">
+	<feFuncR type="linear" slope="0"/>
+	<feFuncG type="linear" slope="0"/>
+	<feFuncB type="linear" slope="0"/>
+</feComponentTransfer>
+<feGaussianBlur stdDeviation="1 1" />
+<feOffset dx="2.12135" dy="2.12129"/>
+<feComponentTransfer result="28">
+	<feFuncR type="linear" Ue="0" intercept="0"/>
+	<feFuncG type="linear" Ue="0" intercept="0"/>
+	<feFuncB type="linear" Ue="0" intercept="0"/>
+	<feFuncA type="linear" xh="0" slope="0.5"/>
+</feComponentTransfer>
+<feComposite result="29"  in="SourceGraphic" in2="28" operator="over"/>
+</filter>
+<g style="filter:url(#filter30);">
+<g id="PathID_51" transform="matrix(0.289846, 0, 0, 0.335027, -25.25, -50.8)" opacity="1">
+<path style="fill:#000000;fill-opacity:1" d="M424.85 316.1L87.1 316.1L87.1 151.55L424.85 151.55L424.85 316.1" />
+</g>
+<g id="PathID_52" transform="matrix(0.289846, 0, 0, 0.335027, -25.25, -50.8)" opacity="1">
+</g>
+</g>
+<filter id="filter33" x="-0.529762" y="-0.529762" width="2.24836" height="2.25935" >
+<feComponentTransfer in="SourceGraphic">
+	<feFuncR type="linear" slope="0"/>
+	<feFuncG type="linear" slope="0"/>
+	<feFuncB type="linear" slope="0"/>
+</feComponentTransfer>
+<feGaussianBlur stdDeviation="1 1" />
+<feOffset dx="2.12135" dy="2.12129"/>
+<feComponentTransfer result="31">
+	<feFuncR type="linear" Ue="0" intercept="0.701961"/>
+	<feFuncG type="linear" Ue="0" intercept="0.701961"/>
+	<feFuncB type="linear" Ue="0" intercept="0.701961"/>
+	<feFuncA type="linear" xh="0" slope="0.5"/>
+</feComponentTransfer>
+<feComposite result="32"  in="SourceGraphic" in2="31" operator="over"/>
+</filter>
+<g style="filter:url(#filter33);">
+<g id="PathID_53" transform="matrix(0.509075, 0, 0, 0.548688, 10.6, 37.1)" opacity="1">
+<path style="fill:#FFFFFF;fill-opacity:1" d="M3.95 0L3.95 -36.35L11.35 -36.35L11.35 -6.2L29.75 -6.2L29.75 0L3.95 0" />
+</g>
+<g id="PathID_54" transform="matrix(0.509075, 0, 0, 0.548688, 10.6, 37.1)" opacity="1">
+</g>
+<g id="PathID_55" transform="matrix(0.509075, 0, 0, 0.548688, 26.5, 37.1)" opacity="1">
+<path style="fill:#FFFFFF;fill-opacity:1" d="M2.25 -18.1Q2.25 -23.7 3.9 -27.5Q5.15 -30.3 7.3 -32.5Q9.5 -34.75 12.05 -35.8Q15.5 -37.3 19.95 -37.3Q28.05 -37.3 32.9 -32.25Q37.8 -27.2 37.8 -18.25Q37.8 -9.35 32.95 -4.35Q28.15 0.65 20.05 0.65Q11.9 0.65 7.05 -4.3Q2.25 -9.3 2.25 -18.1M9.9 -18.35Q9.9 -12.1 12.75 -8.9Q15.6 -5.7 20.05 -5.7Q24.45 -5.7 27.3 -8.85Q30.15 -12.05 30.15 -18.45Q30.15 -24.75 27.35 -27.85Q24.6 -30.95 20.05 -30.95Q15.45 -30.95 12.65 -27.8Q9.9 -24.65 9.9 -18.35" />
+</g>
+<g id="PathID_56" transform="matrix(0.509075, 0, 0, 0.548688, 26.5, 37.1)" opacity="1">
+</g>
+<g id="PathID_57" transform="matrix(0.509075, 0, 0, 0.548688, 46.75, 37.1)" opacity="1">
+<path style="fill:#FFFFFF;fill-opacity:1" d="M3.85 0L3.85 -36.65L11.25 -36.65L11.25 -20.35L26.2 -36.65L36.15 -36.65L22.3 -22.35L36.85 0L27.3 0L17.2 -17.15L11.25 -11.05L11.25 0L3.85 0" />
+</g>
+<g id="PathID_58" transform="matrix(0.509075, 0, 0, 0.548688, 46.75, 37.1)" opacity="1">
+</g>
+<g id="PathID_59" transform="matrix(0.509075, 0, 0, 0.548688, 65.55, 37.1)" opacity="1">
+<path style="fill:#FFFFFF;fill-opacity:1" d="M2.25 -18.1Q2.25 -23.7 3.9 -27.5Q5.15 -30.3 7.3 -32.5Q9.5 -34.75 12.05 -35.8Q15.5 -37.3 19.95 -37.3Q28.05 -37.3 32.9 -32.25Q37.8 -27.2 37.8 -18.25Q37.8 -9.35 32.95 -4.35Q28.15 0.65 20.05 0.65Q11.9 0.65 7.05 -4.3Q2.25 -9.3 2.25 -18.1M9.9 -18.35Q9.9 -12.1 12.75 -8.9Q15.6 -5.7 20.05 -5.7Q24.45 -5.7 27.3 -8.85Q30.15 -12.05 30.15 -18.45Q30.15 -24.75 27.35 -27.85Q24.6 -30.95 20.05 -30.95Q15.45 -30.95 12.65 -27.8Q9.9 -24.65 9.9 -18.35" />
+</g>
+<g id="PathID_60" transform="matrix(0.509075, 0, 0, 0.548688, 65.55, 37.1)" opacity="1">
+</g>
+</g>
+<filter id="filter36" x="-0.529762" y="-0.529762" width="2.25426" height="2.26983" >
+<feComponentTransfer in="SourceGraphic">
+	<feFuncR type="linear" slope="0"/>
+	<feFuncG type="linear" slope="0"/>
+	<feFuncB type="linear" slope="0"/>
+</feComponentTransfer>
+<feGaussianBlur stdDeviation="1 1" />
+<feOffset dx="2.12135" dy="2.12129"/>
+<feComponentTransfer result="34">
+	<feFuncR type="linear" Ue="0" intercept="0.701961"/>
+	<feFuncG type="linear" Ue="0" intercept="0.701961"/>
+	<feFuncB type="linear" Ue="0" intercept="0.701961"/>
+	<feFuncA type="linear" xh="0" slope="0.5"/>
+</feComponentTransfer>
+<feComposite result="35"  in="SourceGraphic" in2="34" operator="over"/>
+</filter>
+<g style="filter:url(#filter36);">
+<g id="PathID_61" transform="matrix(0.593481, 0, 0, 0.570152, 113.8, 37.7)" opacity="1">
+<path style="fill:#FFFFFF;fill-opacity:1" d="M3.75 0L3.75 -36.65L28.9 -36.65L28.9 -30.45L11.15 -30.45L11.15 -21.8L26.45 -21.8L26.45 -15.6L11.15 -15.6L11.15 0L3.75 0" />
+</g>
+<g id="PathID_62" transform="matrix(0.593481, 0, 0, 0.570152, 113.8, 37.7)" opacity="1">
+</g>
+<g id="PathID_63" transform="matrix(0.593481, 0, 0, 0.570152, 132.35, 37.7)" opacity="1">
+<path style="fill:#FFFFFF;fill-opacity:1" d="M3.5 0L3.5 -36.65L10.9 -36.65L10.9 0L3.5 0" />
+</g>
+<g id="PathID_64" transform="matrix(0.593481, 0, 0, 0.570152, 132.35, 37.7)" opacity="1">
+</g>
+<g id="PathID_65" transform="matrix(0.593481, 0, 0, 0.570152, 140.75, 37.7)" opacity="1">
+<path style="fill:#FFFFFF;fill-opacity:1" d="M3.75 0L3.75 -36.65L10.9 -36.65L26.05 -12L26.05 -36.65L32.9 -36.65L32.9 0L25.45 0L10.6 -24L10.6 0L3.75 0" />
+</g>
+<g id="PathID_66" transform="matrix(0.593481, 0, 0, 0.570152, 140.75, 37.7)" opacity="1">
+</g>
+<g id="PathID_67" transform="matrix(0.593481, 0, 0, 0.570152, 162.7, 37.7)" opacity="1">
+<path style="fill:#FFFFFF;fill-opacity:1" d="M3.75 -36.65L17.25 -36.65Q21.8 -36.65 24.2 -35.95Q27.45 -35 29.75 -32.55Q32.05 -30.15 33.25 -26.6Q34.45 -23.1 34.45 -17.95Q34.45 -13.45 33.3 -10.15Q31.95 -6.15 29.4 -3.7Q27.45 -1.8 24.2 -0.75Q21.75 0 17.65 0L3.75 0L3.75 -36.65M11.15 -30.45L11.15 -6.2L16.65 -6.2Q19.75 -6.2 21.1 -6.55Q22.9 -6.95 24.1 -8Q25.3 -9.1 26.05 -11.55Q26.8 -14.05 26.8 -18.3Q26.8 -22.55 26.05 -24.8Q25.3 -27.1 23.95 -28.35Q22.6 -29.65 20.5 -30.1Q18.95 -30.45 14.45 -30.45L11.15 -30.45" />
+</g>
+<g id="PathID_68" transform="matrix(0.593481, 0, 0, 0.570152, 162.7, 37.7)" opacity="1">
+</g>
+</g>
+<g id="PathID_69" transform="matrix(0.335027, 0, 0, 0.335027, 10.95, -67.85)" opacity="1">
+<path style="fill:#FFFFFF;fill-opacity:1" d="M302.15 373.15L332.75 425.25L305.3 441.4L274.7 389.25L252.05 435L233.6 287.7L353.15 375.7L302.15 373.15" />
+</g>
+<g id="PathID_70" transform="matrix(0.335027, 0, 0, 0.335027, 10.95, -67.85)" opacity="1">
+</g>
+<g id="PathID_71" transform="matrix(0.335027, 0, 0, 0.335027, 10.95, -67.85)" opacity="1">
+<path style="fill:#E0E0E0;fill-opacity:1" d="M332.75 425.25L319.9 432.8L233.6 287.7L353.15 375.7L302.15 373.15L332.75 425.25" />
+</g>
+<g id="PathID_72" transform="matrix(0.335027, 0, 0, 0.335027, 10.95, -67.85)" opacity="1">
+</g>
+</svg>
