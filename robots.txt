@@ -4,5 +4,6 @@ Disallow: /css
 Disallow: /fonts
 Disallow: /js
 Disallow: /vendor
+Disallow: /404.html
 
 Sitemap: https://lokofind.com/sitemap.xml
